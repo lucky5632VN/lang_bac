@@ -1,0 +1,273 @@
+.giftbox-hotspot-div {
+    visibility: visible !important;
+    z-index: 1 !important;
+    cursor: pointer !important;
+  }
+  .giftbox-hotspot {
+    transition: all 500 linear;
+  }
+  .giftbox-hotspot.hover {
+    transform: scale(1.5);
+  }
+  
+  #result_gift {
+	padding: 5px;  
+  }
+  
+  #result_gift .modal-body { 
+    padding: 0px;
+  }
+  
+  #result_gift .modal-dialog {
+    margin-top: 150px;
+  }
+  #result_gift .modal-body p {
+    text-align: center;
+    font-size: 21px;
+  }
+
+  #result_gift .modal-content {
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+	background-color: #233083;
+	border-radius: 3px;
+  }
+  
+	#result_gift .modal-body .receivedGiftBox {
+		background-image: url('../../cover/image/bg-gift.png');
+		background-repeat: no-repeat;
+		background-size: 440px 100%;
+		background-position: 100% 100%;
+		padding: 5px;
+	}
+  
+    #result_gift .modal-body .giftLuckNextTimeBox {
+	  	padding: 5px;
+	}
+  
+  #result_gift .modal-body .receivedGift,
+  #result_gift .modal-body .giftLuckNextTime {
+    height: 250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+	border: 1px solid #B2752D;
+	display: table;
+	width: 100%;
+  }
+  
+  
+    .receivedGift .gift-left {
+		display: table-cell;
+		text-align: center;
+		width: calc(100% - 130px);
+	}
+
+	.receivedGift .gift-right {
+		display: table-cell;
+		width: 130px;
+		vertical-align: bottom;
+		text-align: center;
+	}
+	
+	.receivedGift .gift-right .code-box {
+		padding: 10px 0px;
+	}
+	
+	.receivedGift .gift-right .code-box label {
+		color: #C7720F;
+		font-size: 17px;
+		font-weight: 700;
+		margin-bottom: 0px;
+	}
+	
+	.receivedGift .gift-right .code-box span {
+		color: #ffffff;
+		font-size: 15px;
+		font-weight: 700;
+	}
+  
+  #result_gift .modal-body .giftLuckNextTime .caption {
+    font-weight: bold;
+    font-size: 1.575rem;
+    text-transform: uppercase;
+    color: #1c476d;
+  }
+  #result_gift .modal-dialog .btnClose {
+    position: absolute;
+    background: #ffffff;
+    top: 15px;
+    right: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 12;
+    border: none;
+    width: 1.5625rem;
+    height: 1.5625rem;
+    border-radius: 50%;
+    border: none;
+    transform: translate(calc(100% + 9px), -100%);
+    padding: 0;
+  }
+  
+  #result_gift .modal-dialog .btnClose img {
+    width: 0.6875rem;
+    height: 0.6875rem;
+  }
+  
+  #result_gift .modal-dialog {
+    pointer-events: all;
+  }
+
+  #result_gift .modal-body .receivedGift .giftHeader {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+  
+  #result_gift .modal-body .receivedGift .giftHeader img{
+    width: 8.8125rem;
+    height: auto;
+  }
+  
+  
+  .giftLuckNextTime .gift-left {
+    display: table-cell;
+    width: 150px;
+    text-align: center;
+    vertical-align: middle;
+	}
+	
+	.giftLuckNextTime .gift-left img {
+		width: 120px;
+	}
+
+	.giftLuckNextTime .gift-right {
+		display: table-cell;
+		width: calc(100% - 150px);
+		vertical-align: text-bottom;
+		padding-top: 110px;
+	}
+
+	.giftLuckNextTime .gift-right .caption {
+		color: #ffa336 !important;
+		font-size: 18px !important;
+	}
+  
+  #result_gift .modal-body .receivedGift .giftHeader .congratulation {
+    font-style: italic;
+    font-weight: bold;
+    font-size: 1.375rem;
+    text-transform: uppercase;
+    color: #1c476d;
+  }
+  
+  #result_gift .modal-body .receivedGift .giftHeader img {
+    margin-right: 1rem;
+  }
+  
+  #result_gift .modal-body .receivedGift .giftTitle {
+    font-weight: bold;
+    font-size: 1rem;
+    text-align: center;
+    color: #545454;
+    margin-top: 0.5rem;
+    margin-bottom: 0;
+  }
+  #result_gift .modal-body .receivedGift .giftNote{
+    font-size: 1rem;
+    font-style: italic;
+    color: #28649A;
+  }
+  #result_gift .receivedGift{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  #result_gift .giftImage{
+    border: 1px solid #1C476D;
+    box-sizing: border-box;
+    border-radius: 4px;
+    padding: 4px;
+  }
+  #result_gift .giftImage img{
+    width: 15.4375rem;
+    height: auto;
+    border-radius: 4px;
+  }
+  
+  #result_gift img.logo {
+    position: absolute;
+    right: 20px;
+    top: 20px;
+	width: 90px;
+}
+
+  #result_gift .giftCode{
+    color: #545454;
+    font-size: 24px!important;
+    font-weight: 700;
+  }
+  
+  #result_gift .modal-body .receivedGift p.congratulation {
+    color: #ffffff;
+    padding: 10px 0px;
+    font-size: 16px;
+    font-weight: 600;
+	margin-bottom: 0px;
+  }
+  
+  #result_gift .modal-body .receivedGift img.image-gift {
+    width: 150px;
+    border: 1px solid #E3A400;
+    padding: 3px;
+  }
+  
+   #result_gift .modal-body .receivedGift a.btn-contact {
+		background: linear-gradient(87.58deg, #B2752D -26.06%, #F3E786 57.88%, #8B5B26 141.81%);
+		border-radius: 4px;
+		display: block;
+		line-height: 34px;
+		margin: 0 auto;
+		margin-bottom: 10px;
+		color: #233083;
+		font-size: 15px;
+		font-weight: 700;
+		width: 200px;
+	}
+	
+	#result_gift .modal-body .receivedGift p.decription {
+		color: #dfc856;
+		font-size: 17px;
+		font-weight: 700;
+		width: 85%;
+		margin: 0 auto;
+	}
+  
+@media only screen and (max-width: 600px) {
+	.gift-left {
+		width: 120px;
+	}
+	
+	.gift-left img {
+		width: 110px;
+	}
+	
+	.gift-right {
+		width: calc(100% - 120px);
+	}
+	
+	.giftLuckNextTime .gift-right .caption {
+		font-size: 14px !important;
+	}
+	
+	#result_gift .modal-body .receivedGift a.btn-contact {
+		width: 150px;
+	}
+}

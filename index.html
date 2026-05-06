@@ -1,0 +1,253 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+		<title>CỤM DI TÍCH LÀNG KIM LIÊN BY VR360</title>
+		<meta property="og:type" content="article">
+		<meta property="og:url" content="https://vr360.com.vn/projects/ditich-langkimlien-vr360/">
+		<meta property="og:title" content="CỤM DI TÍCH LÀNG KIM LIÊN BY VR360">
+		<meta property="og:description" content="CỤM DI TÍCH LÀNG KIM LIÊN BY VR360">
+		<meta property="og:image" content="thumb.jpg">
+        <link rel="shortcut icon" href="favicon.png">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0" />
+		<meta name="apple-mobile-web-app-capable" content="yes" />
+		<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+		<meta name="mobile-web-app-capable" content="yes" />
+		<meta name="robots" content="noindex, archive, follow, noodp">
+		<meta property="og:image" content="preview.jpg">
+		<style type="text/css" title="Default">
+			/* fullscreen */
+			html {
+				height:100%;
+			}
+			body {
+				height:100%;
+				margin: 0px;
+				background: black;
+				color: white;
+				overflow:hidden;
+				-webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+			}
+			::-webkit-scrollbar {
+				background-color: rgba(0,0,0,0.5);
+				width: 0.75em;
+				height: 0.75em;
+			}
+			::-webkit-scrollbar-thumb {
+				background-color:  rgba(255,255,255,0.5);
+			}
+		</style>
+
+		<link rel="stylesheet" media="screen" href="external/style.css">		
+<script>
+    window.code = "zLhuJUDPLfNUFzPaCwhe";
+    window.name = "Cụm di tích làng Kim Liên - Nghệ An";
+</script>
+<script src="toast_notice.js" async></script>
+	</head>
+	<body>
+<!-- - - - - - - 8<- - - - - - cut here - - - - - 8<- - - - - - - -->
+		<script type="text/javascript" src="pano2vr_player.js">
+		</script>
+		<script type="text/javascript" src="skin.js">
+		</script>
+		<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Work+Sans:wght@600&display=swap"/>
+		<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap"/>
+		<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Calistoga&display=swap"/>
+		<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;700&display=swap"/>
+		<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Encode+Sans:wdth,wght@110,397&family=Roboto&display=swap"/>
+		<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,500;0,600;0,700;0,800;1,400;1,500;1,600;1,700;1,800&display=swap"/>
+		<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@500&display=swap"/>
+		<script src="https://maps.googleapis.com/maps/api/js?v=3&key=AIzaSyAWXH4d76M9WHvvP60WwnD3F532SoToxkE"></script>
+		<script src="3rdparty/google_markerclusterer/markerclusterer.js"></script>
+		<script src="3rdparty/lottie/lottie.min.js"></script>
+		
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+		<link rel="stylesheet" href="cover/css/site.css" />
+		<link rel="stylesheet" href="cover/css/responsive.css" />
+
+		<div id="container" style="width:100%;height:100%;overflow:hidden;">
+		<br>Loading...<br><br>
+		</div>
+		<script type="text/javascript">
+		function parseParams(paramsString, params) {
+			paramsString = paramsString.substring(1);
+			var firstSeparatorPos = paramsString.indexOf(",");
+			if (firstSeparatorPos != -1) {
+				params.startNode = paramsString.slice(0, firstSeparatorPos);
+				var viewingParamsString = paramsString.slice(firstSeparatorPos + 1);
+				var viewingParams = viewingParamsString.split(",");
+				if (viewingParams.length >= 3) {
+					var startView = {};
+					startView["pan"] = viewingParams[0];
+					startView["tilt"] = viewingParams[1];
+					startView["fov"] = viewingParams[2];
+					if (viewingParams.length >= 4) {
+						startView["projection"] = viewingParams[3];
+					}
+					params.startView = startView;
+				}
+			} else {
+				params.startNode = paramsString;
+				params.startView = "";
+			}
+		}
+		var params = {};
+		parseParams(document.location.hash, params);
+		var startNode = params.startNode;
+		var startView = params.startView;
+		if (("onhashchange" in window) && (!(/MSIE (\d+\.\d+);/.test(navigator.userAgent)))) {
+			window.onhashchange = function () {
+				parseParams(window.location.hash, params);
+				pano.openNext('{' + params.startNode + '}', params.startView);
+			}
+		} else {
+			var lastHash = window.location.hash;
+			window.setInterval(function () {
+				if (window.location.hash != lastHash) {
+					lastHash = window.location.hash;
+					parseParams(window.location.hash, params);
+					pano.openNext('{' + params.startNode + '}', params.startView);
+				}
+			}, 100);
+		}
+			// create the panorama player with the container
+			pano=new pano2vrPlayer("container");
+			pano.startNode = startNode;
+			pano.startView = startView;
+			// add the skin object
+			skin=new pano2vrSkin(pano);
+			// load the configuration
+			window.addEventListener("load", function() {
+				pano.readConfigUrlAsync("pano.xml");
+			});
+			if (window.navigator.userAgent.match(/Safari/i)) {
+				function iosHfix(e) {
+					window.scrollTo(0, 1);
+					var container=document.getElementById("container");
+					var oh=container.offsetHeight;
+					document.documentElement.style.setProperty('height', '100vh');
+					if (oh!=container.offsetHeight) {
+						container.style.setProperty('height',"100%");
+					} else {
+						container.style.setProperty('height',window.innerHeight+"px");
+					}
+					window.scrollTo(0, 0);
+					pano.setViewerSize(container.offsetWidth, container.offsetHeight);
+				};
+				setTimeout(iosHfix,0);
+				setTimeout(iosHfix,100);
+				window.addEventListener("resize", function() {
+					setTimeout(iosHfix,0);
+					setTimeout(iosHfix,500);
+					setTimeout(iosHfix,1000);
+					setTimeout(iosHfix,2000);
+				});
+			}
+		</script>
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+		
+		<script src="cover/js/gift.js"></script> 
+
+		<script type="text/javascript" src="external/script.js"></script>
+		<script type="text/javascript" src="external/info-tab.js"></script>
+		<script type="text/javascript" src="external/gift.js"></script>
+		<script type="text/javascript" src="external/games/questions/questions.js"></script>
+		<script>
+		// VR360 Custom: Ẩn nút ảnh (info_pad) khi node không có banner
+		(function() {
+			var BANNERS_SRC = ['nguyensinhsac', 'giengcoc'];
+
+			function patchSkinElements() {
+				if (typeof pano === 'undefined') return false;
+
+				var els = document.querySelectorAll('.ggskin');
+				if (els.length === 0) return false;
+
+				var patchedAny = false;
+				for (var i = 0; i < els.length; i++) {
+					var el = els[i];
+					if ((el.ggId === 'info_pad' || el.ggId === 'info-ico' || el.ggId === 'Language') && !el._vr360_patched) {
+						el._vr360_patched = true;
+						var origLogic = el.logicBlock_visible;
+						
+						el.logicBlock_visible = function() {
+							var src = (typeof pano !== 'undefined' && pano.userdata && pano.userdata.source) ? pano.userdata.source.trim() : '';
+							var hasImg = BANNERS_SRC.indexOf(src) >= 0;
+							
+							// Luôn ẩn hoàn toàn nút Language vì bị lỗi hiển thị / người dùng yêu cầu xoá
+							if (this.ggId === 'Language' || !hasImg) {
+								this.ggCurrentLogicStateVisible = 0;
+								this.style.visibility = 'hidden';
+								this.style.display = 'none'; // Đảm bảo ẩn hoàn toàn
+								this.ggVisible = false;
+							} else {
+								if (origLogic) {
+									origLogic.call(this);
+								} else {
+									this.style.visibility = 'inherit';
+									this.style.display = 'block';
+									this.ggVisible = true;
+								}
+							}
+						};
+						
+						// Gọi ngay lập tức để áp dụng
+						el.logicBlock_visible();
+						patchedAny = true;
+					}
+				}
+				
+				// Đóng panel nếu đang mở ở node không có ảnh
+				var src = (pano.userdata && pano.userdata.source) ? pano.userdata.source.trim() : '';
+				if (BANNERS_SRC.indexOf(src) === -1) {
+					try { pano.setVariableValue('information', false); } catch(e) {}
+				}
+				
+				return patchedAny;
+			}
+
+			// Đăng ký event để re-evaluate mỗi khi chuyển node
+			var _evtSet = false;
+			function ensureListener() {
+				if (_evtSet || typeof pano === 'undefined') return;
+				_evtSet = true;
+				pano.addListener('changenode', function() {
+					// Lấy lại danh sách và force cập nhật UI
+					var els = document.querySelectorAll('.ggskin');
+					for (var i = 0; i < els.length; i++) {
+						var el = els[i];
+						if ((el.ggId === 'info_pad' || el.ggId === 'info-ico' || el.ggId === 'Language') && el._vr360_patched && typeof el.logicBlock_visible === 'function') {
+							el.logicBlock_visible();
+						}
+					}
+
+					// Đóng panel nếu đang mở ở node không có ảnh
+					var src = (pano.userdata && pano.userdata.source) ? pano.userdata.source.trim() : '';
+					if (BANNERS_SRC.indexOf(src) === -1) {
+						try { pano.setVariableValue('information', false); } catch(e) {}
+					}
+					
+					// Đôi khi element được tạo lại (rất hiếm), ta thử patch lại
+					setTimeout(patchSkinElements, 200);
+				});
+			}
+
+			// Poll để patch ngay khi skin DOM được tạo ra
+			var poll = setInterval(function() {
+				if (typeof pano !== 'undefined') {
+					ensureListener();
+					patchSkinElements();
+				}
+			}, 300);
+			
+			setTimeout(function() { clearInterval(poll); }, 15000);
+		})();
+		</script>
+
+			<p><b>Please enable Javascript!</b></p>
+		</noscript>
+<!-- - - - - - - 8<- - - - - - cut here - - - - - 8<- - - - - - - -->
+	</body>
+</html>
