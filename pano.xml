@@ -35,7 +35,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node157" hideabout="1">
@@ -72,7 +72,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node66" hideabout="1">
@@ -108,7 +108,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node76" hideabout="1">
@@ -153,7 +153,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node57" hideabout="1">
@@ -187,7 +187,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node30" hideabout="1">
@@ -224,7 +224,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node31" hideabout="1">
@@ -260,7 +260,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node32" hideabout="1">
@@ -298,7 +298,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node161" hideabout="1">
@@ -333,7 +333,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node160" hideabout="1">
@@ -369,7 +369,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node21" hideabout="1">
@@ -406,7 +406,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node22" hideabout="1">
@@ -442,7 +442,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node23" hideabout="1">
@@ -479,7 +479,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node162" hideabout="1">
@@ -515,7 +515,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node163" hideabout="1">
@@ -551,7 +551,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node4" hideabout="1">
@@ -588,7 +588,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node5" hideabout="1">
@@ -623,7 +623,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node71" hideabout="1">
@@ -658,7 +658,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node24" hideabout="1">
@@ -695,7 +695,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node25" hideabout="1">
@@ -731,7 +731,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node26" hideabout="1">
@@ -768,7 +768,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node27" hideabout="1">
@@ -803,7 +803,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node28" hideabout="1">
@@ -839,7 +839,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node29" hideabout="1">
@@ -874,7 +874,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node72" hideabout="1">
@@ -909,7 +909,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node17" hideabout="1">
@@ -945,7 +945,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node18" hideabout="1">
@@ -981,7 +981,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node19" hideabout="1">
@@ -1017,7 +1017,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node20" hideabout="1">
@@ -1055,7 +1055,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node174" hideabout="1">
@@ -1088,7 +1088,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node175" hideabout="1">
@@ -1121,7 +1121,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node7" hideabout="1">
@@ -1157,7 +1157,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node6" hideabout="1">
@@ -1192,7 +1192,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node156" hideabout="1">
@@ -1226,7 +1226,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node70" hideabout="1">
@@ -1261,7 +1261,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node10" hideabout="1">
@@ -1298,7 +1298,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node12" hideabout="1">
@@ -1334,7 +1334,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node11" hideabout="1">
@@ -1369,7 +1369,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node75" hideabout="1">
@@ -1404,7 +1404,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node33" hideabout="1">
@@ -1440,7 +1440,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node34" hideabout="1">
@@ -1476,7 +1476,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node35" hideabout="1">
@@ -1512,7 +1512,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node36" hideabout="1">
@@ -1547,7 +1547,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node69" hideabout="1">
@@ -1582,7 +1582,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node13" hideabout="1">
@@ -1618,7 +1618,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node14" hideabout="1">
@@ -1654,7 +1654,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node16" hideabout="1">
@@ -1689,7 +1689,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node180" hideabout="1">
@@ -1725,7 +1725,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node176" hideabout="1">
@@ -1758,7 +1758,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node177" hideabout="1">
@@ -1791,7 +1791,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node178" hideabout="1">
@@ -1823,7 +1823,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node79" hideabout="1">
@@ -1865,7 +1865,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node67" hideabout="1">
@@ -1897,7 +1897,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node80" hideabout="1">
@@ -1930,7 +1930,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node3" hideabout="1">
@@ -1963,7 +1963,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node158" hideabout="1">
@@ -1996,7 +1996,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node51" hideabout="1">
@@ -2029,7 +2029,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node54" hideabout="1">
@@ -2065,7 +2065,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node55" hideabout="1">
@@ -2098,7 +2098,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node56" hideabout="1">
@@ -2131,7 +2131,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node62" hideabout="1">
@@ -2164,7 +2164,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node60" hideabout="1">
@@ -2200,7 +2200,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node41" hideabout="1">
@@ -2233,7 +2233,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node38" hideabout="1">
@@ -2267,7 +2267,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node39" hideabout="1">
@@ -2299,7 +2299,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node40" hideabout="1">
@@ -2331,7 +2331,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node46" hideabout="1">
@@ -2364,7 +2364,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node42" hideabout="1">
@@ -2398,7 +2398,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node43" hideabout="1">
@@ -2430,7 +2430,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node45" hideabout="1">
@@ -2462,7 +2462,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node9" hideabout="1">
@@ -2494,7 +2494,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node8" hideabout="1">
@@ -2528,7 +2528,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node78" hideabout="1">
@@ -2562,7 +2562,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node61" hideabout="1">
@@ -2596,7 +2596,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node47" hideabout="1">
@@ -2630,7 +2630,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node49" hideabout="1">
@@ -2663,7 +2663,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node50" hideabout="1">
@@ -2695,7 +2695,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node53" hideabout="1">
@@ -2729,7 +2729,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node77" hideabout="1">
@@ -2762,7 +2762,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node1" hideabout="1">
@@ -2794,7 +2794,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node179" hideabout="1">
@@ -2830,7 +2830,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node164" hideabout="1">
@@ -2866,7 +2866,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node165" hideabout="1">
@@ -2901,7 +2901,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node166" hideabout="1">
@@ -2938,7 +2938,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node167" hideabout="1">
@@ -2975,7 +2975,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node168" hideabout="1">
@@ -3011,7 +3011,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node169" hideabout="1">
@@ -3047,7 +3047,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node171" hideabout="1">
@@ -3083,7 +3083,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node170" hideabout="1">
@@ -3119,7 +3119,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node172" hideabout="1">
@@ -3155,7 +3155,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node173" hideabout="1">
@@ -3190,7 +3190,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node90" hideabout="1">
@@ -3231,7 +3231,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node81" hideabout="1">
@@ -3263,7 +3263,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node83" hideabout="1">
@@ -3300,7 +3300,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node84" hideabout="1">
@@ -3336,7 +3336,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node85" hideabout="1">
@@ -3371,7 +3371,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node91" hideabout="1">
@@ -3408,7 +3408,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node92" hideabout="1">
@@ -3443,7 +3443,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node82" hideabout="1">
@@ -3477,7 +3477,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node89" hideabout="1">
@@ -3513,7 +3513,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node93" hideabout="1">
@@ -3549,7 +3549,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node94" hideabout="1">
@@ -3585,7 +3585,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node95" hideabout="1">
@@ -3620,7 +3620,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node102" hideabout="1">
@@ -3659,7 +3659,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node103" hideabout="1">
@@ -3695,7 +3695,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node104" hideabout="1">
@@ -3731,7 +3731,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node97" hideabout="1">
@@ -3768,7 +3768,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node98" hideabout="1">
@@ -3802,7 +3802,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node99" hideabout="1">
@@ -3839,7 +3839,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node100" hideabout="1">
@@ -3874,7 +3874,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node105" hideabout="1">
@@ -3911,7 +3911,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node106" hideabout="1">
@@ -3949,7 +3949,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node107" hideabout="1">
@@ -3985,7 +3985,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node108" hideabout="1">
@@ -4021,7 +4021,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node109" hideabout="1">
@@ -4057,7 +4057,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node110" hideabout="1">
@@ -4093,7 +4093,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node111" hideabout="1">
@@ -4128,7 +4128,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node118" hideabout="1">
@@ -4167,7 +4167,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node148" hideabout="1">
@@ -4199,7 +4199,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node112" hideabout="1">
@@ -4233,7 +4233,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node119" hideabout="1">
@@ -4267,7 +4267,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node131" hideabout="1">
@@ -4300,7 +4300,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node141" hideabout="1">
@@ -4337,7 +4337,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node143" hideabout="1">
@@ -4372,7 +4372,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node145" hideabout="1">
@@ -4405,7 +4405,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node147" hideabout="1">
@@ -4438,7 +4438,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node133" hideabout="1">
@@ -4473,7 +4473,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node115" hideabout="1">
@@ -4509,7 +4509,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node136" hideabout="1">
@@ -4547,7 +4547,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node138" hideabout="1">
@@ -4583,7 +4583,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node139" hideabout="1">
@@ -4619,7 +4619,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node137" hideabout="1">
@@ -4655,7 +4655,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node113" hideabout="1">
@@ -4694,7 +4694,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node135" hideabout="1">
@@ -4727,7 +4727,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node121" hideabout="1">
@@ -4760,7 +4760,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node123" hideabout="1">
@@ -4793,7 +4793,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node129" hideabout="1">
@@ -4826,7 +4826,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node128" hideabout="1">
@@ -4859,7 +4859,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node127" hideabout="1">
@@ -4891,7 +4891,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node130" hideabout="1">
@@ -4926,7 +4926,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node149" hideabout="1">
@@ -4960,7 +4960,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node150" hideabout="1">
@@ -4994,7 +4994,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node154" hideabout="1">
@@ -5028,7 +5028,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node151" hideabout="1">
@@ -5061,7 +5061,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node152" hideabout="1">
@@ -5094,7 +5094,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node153" hideabout="1">
@@ -5127,7 +5127,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <panorama id="node155" hideabout="1">
@@ -5160,7 +5160,7 @@
     <autorotate speed="0.040" returntohorizon="0.000" enabled="1" delay="10.00" noderandom="0" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" nodedelay="360.00"/>
     <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="1" lockedkeyboardzoom="0" speedwheel="1" zoomcentercursor="0" lockedmouse="0" invertwheel="1" hideabout="1" lockedwheel="0" contextfullscreen="1">
-      <menulink url="https://vr360.com.vn/" text="POWERED BY VR360"/>
+
     </control>
   </panorama>
   <masternode>

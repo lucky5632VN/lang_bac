@@ -147,7 +147,7 @@ function pano2vrSkin(player,base) {
 		el.ggSubElement = els;
 		el.ggId="powered_by";
 		el.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1,def:'' };
-		el.ggVisible=true;
+		el.ggVisible=false;
 		el.className="ggskin ggskin_svg ";
 		el.ggType='svg';
 		hs ='';
@@ -157,7 +157,7 @@ function pano2vrSkin(player,base) {
 		hs+='left : 10px;';
 		hs+='opacity : 0.5;';
 		hs+='position : absolute;';
-		hs+='visibility : inherit;';
+		hs+='visibility : hidden; display : none;';
 		hs+='width : 160px;';
 		hs+='pointer-events:auto;';
 		el.setAttribute('style',hs);
@@ -3845,7 +3845,7 @@ function pano2vrSkin(player,base) {
 		hs+='border : 0px solid #000000;';
 		hs+='border-radius : 20px;';
 		hs+='cursor : default;';
-		hs+='height : 300px;';
+		hs+='height : 150px;';
 		hs+='position : absolute;';
 		hs+='right : 10px;';
 		hs+='top : 10px;';
@@ -3933,7 +3933,7 @@ function pano2vrSkin(player,base) {
 		hs+='height : 50px;';
 		hs+='left : calc(50% - ((50px + 0px) / 2) + 0px);';
 		hs+='position : absolute;';
-		hs+='visibility : inherit;';
+		hs+='visibility : hidden; display : none !important;';
 		hs+='width : 50px;';
 		hs+='pointer-events:auto;';
 		hs+='border-style: solid;';
@@ -4051,8 +4051,8 @@ function pano2vrSkin(player,base) {
 		hs ='';
 		hs+='background : rgba(255,255,255,0);';
 		hs+='border : 0px solid #000000;';
-		hs+='border-radius : 0px 0px 0px 0px;';
-		hs+='bottom : 50px;';
+		hs+='border-radius : 0px 0px 20px 20px;';
+		hs+='bottom : 0px;';
 		hs+='cursor : pointer;';
 		hs+='height : 50px;';
 		hs+='left : calc(50% - ((50px + 0px) / 2) + 0px);';
@@ -4549,7 +4549,7 @@ function pano2vrSkin(player,base) {
 		hs+='background : rgba(255,255,255,0);';
 		hs+='border : 0px solid #000000;';
 		hs+='border-radius : 0px 0px 0px 0px;';
-		hs+='bottom : 100px;';
+		hs+='bottom : 50px;';
 		hs+='cursor : pointer;';
 		hs+='height : 50px;';
 		hs+='left : calc(50% - ((50px + 0px) / 2) + 0px);';
@@ -4677,8 +4677,8 @@ function pano2vrSkin(player,base) {
 		hs+='height : 50px;';
 		hs+='left : calc(50% - ((50px + 0px) / 2) + 0px);';
 		hs+='position : absolute;';
-		hs+='top : 100px;';
-		hs+='visibility : inherit;';
+		hs+='top : 50px;';
+		hs+='visibility : hidden; display : none !important;';
 		hs+='width : 50px;';
 		hs+='pointer-events:auto;';
 		hs+='border-style: solid;';
@@ -4923,7 +4923,7 @@ function pano2vrSkin(player,base) {
 		hs+='right : 10px;';
 		hs+='top : 10px;';
 		hs+='visibility : inherit;';
-		hs+='width : 300px;';
+		hs+='width : 150px;';
 		hs+='pointer-events:auto;';
 		hs+='backdrop-filter: blur(4px); -webkit-backdrop-filter: blur(4px); -moz-backdrop-filter: blur(4px);';
 		el.setAttribute('style',hs);
@@ -4977,7 +4977,7 @@ function pano2vrSkin(player,base) {
 		hs+='left : 0px;';
 		hs+='position : absolute;';
 		hs+='top : calc(50% - ((50px + 0px) / 2) + 0px);';
-		hs+='visibility : inherit;';
+		hs+='visibility : hidden; display : none !important;';
 		hs+='width : 50px;';
 		hs+='pointer-events:auto;';
 		hs+='border-style: solid;';
@@ -5095,10 +5095,10 @@ function pano2vrSkin(player,base) {
 		hs ='';
 		hs+='background : rgba(255,255,255,0);';
 		hs+='border : 0px solid #000000;';
-		hs+='border-radius : 0px 0px 0px 0px;';
+		hs+='border-radius : 20px 0px 0px 20px;';
 		hs+='cursor : pointer;';
 		hs+='height : 50px;';
-		hs+='left : 50px;';
+		hs+='left : 0px;';
 		hs+='position : absolute;';
 		hs+='top : calc(50% - ((50px + 0px) / 2) + 0px);';
 		hs+='visibility : inherit;';
@@ -5595,7 +5595,7 @@ function pano2vrSkin(player,base) {
 		hs+='border-radius : 0px 0px 0px 0px;';
 		hs+='cursor : pointer;';
 		hs+='height : 50px;';
-		hs+='left : 100px;';
+		hs+='left : 50px;';
 		hs+='position : absolute;';
 		hs+='top : calc(50% - ((50px + 0px) / 2) + 0px);';
 		hs+='visibility : inherit;';
@@ -5720,9 +5720,9 @@ function pano2vrSkin(player,base) {
 		hs+='cursor : pointer;';
 		hs+='height : 50px;';
 		hs+='position : absolute;';
-		hs+='right : 100px;';
+		hs+='right : 50px;';
 		hs+='top : calc(50% - ((50px + 0px) / 2) + 0px);';
-		hs+='visibility : inherit;';
+		hs+='visibility : hidden; display : none !important;';
 		hs+='width : 50px;';
 		hs+='pointer-events:auto;';
 		hs+='border-style: solid;';
