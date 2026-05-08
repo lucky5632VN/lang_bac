@@ -10608,7 +10608,7 @@ function pano2vrSkin(player,base) {
 		els.setAttribute('style',hs);
 		me._getting_stared.ggUpdateText=function() {
 			var params = [];
-			var hs = player._("B\u1eaeT \u0110\u1ea6U THAM QUAN", params);
+			var hs = player._("THAM QUAN QU\u00ca B\u00c1C", params);
 			if (hs!=this.ggText) {
 				this.ggText=hs;
 				this.ggTextDiv.innerHTML=hs;

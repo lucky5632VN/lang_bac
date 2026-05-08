@@ -245,8 +245,90 @@
 			setTimeout(function() { clearInterval(poll); }, 15000);
 		})();
 		</script>
+		
+		<div class="site-credit" style="position: absolute; bottom: 30px; left: 30px; z-index: 9999; pointer-events: none; font-family: 'Montserrat', sans-serif; display: flex; align-items: center; gap: 8px; text-shadow: 0 2px 5px rgba(0,0,0,0.9);">
+			<span style="color: #FFFFFF; font-size: 14px; font-weight: 700; text-transform: uppercase; letter-spacing: 1px;">Người làm dự án:</span>
+			<strong style="color: #FFD200; font-weight: 800; font-size: 16px; text-transform: uppercase; letter-spacing: 1.5px;">HỒ TRẦN THỤC NHI</strong>
+			<span style="color: rgba(255,255,255,0.6); font-size: 12px;">-</span>
+			<span style="color: #00E5FF; font-weight: 700; font-size: 14px; letter-spacing: 1px;">11B1</span>
+		</div>
+		
+		<audio id="bg-music" src="assets/nguoi-ve-tham-que.mp3" loop></audio>
+		<div class="music-wrapper" style="position: absolute; bottom: 20px; right: 20px; z-index: 9999; display: flex; align-items: center; background: rgba(0,0,0,0.6); border-radius: 25px; box-shadow: 0 4px 12px rgba(0,0,0,0.3); border: 2px solid rgba(255,255,255,0.4); transition: background 0.3s, width 0.3s ease; width: 50px; overflow: hidden; padding-right: 5px;">
+			<div class="music-control" style="cursor: pointer; display: flex; align-items: center; justify-content: center; width: 46px; height: 46px; flex-shrink: 0;">
+				<svg id="music-icon-on" style="display: none; fill: white;" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24"><path d="M3 9v6h4l5 5V4L7 9H3zm13.5 3c0-1.77-1.02-3.29-2.5-4.03v8.05c1.48-.73 2.5-2.25 2.5-4.02zM14 3.23v2.06c2.89.86 5 3.54 5 6.71s-2.11 5.85-5 6.71v2.06c4.01-.91 7-4.49 7-8.77s-2.99-7.86-7-8.77z"/></svg>
+				<svg id="music-icon-off" style="display: block; fill: white;" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24"><path d="M16.5 12c0-1.77-1.02-3.29-2.5-4.03v2.21l2.45 2.45c.03-.2.05-.41.05-.63zm2.5 0c0 .94-.2 1.82-.54 2.64l1.51 1.51C20.63 14.91 21 13.5 21 12c0-4.28-2.99-7.86-7-8.77v2.06c2.89.86 5 3.54 5 6.71zM4.27 3L3 4.27 7.73 9H3v6h4l5 5v-6.73l4.25 4.25c-.67.52-1.42.93-2.25 1.18v2.06c1.38-.31 2.63-.95 3.69-1.81L19.73 21 21 19.73l-9-9L4.27 3zM12 4L9.91 6.09 12 8.18V4z"/></svg>
+			</div>
+			<input type="range" id="volume-slider" min="0" max="1" step="0.05" value="1" style="width: 80px; margin: 0 10px; cursor: pointer; opacity: 0; transition: opacity 0.3s ease;">
+		</div>
+		<script>
+			var bgMusic = document.getElementById('bg-music');
+			var iconOn = document.getElementById('music-icon-on');
+			var iconOff = document.getElementById('music-icon-off');
+			var wrapper = document.querySelector('.music-wrapper');
+			var mc = document.querySelector('.music-control');
+			var volumeSlider = document.getElementById('volume-slider');
+			var isPlaying = false;
+			
+			wrapper.addEventListener('mouseenter', function() {
+				wrapper.style.width = '145px';
+				wrapper.style.background = 'rgba(0,0,0,0.8)';
+				volumeSlider.style.opacity = '1';
+			});
+			wrapper.addEventListener('mouseleave', function() {
+				wrapper.style.width = '50px';
+				wrapper.style.background = 'rgba(0,0,0,0.6)';
+				volumeSlider.style.opacity = '0';
+			});
 
-			<p><b>Please enable Javascript!</b></p>
+			function toggleMusic(e) {
+				if (e) e.stopPropagation();
+				if (isPlaying) {
+					bgMusic.pause();
+					iconOn.style.display = 'none';
+					iconOff.style.display = 'block';
+					isPlaying = false;
+				} else {
+					bgMusic.play().then(function() {
+						iconOn.style.display = 'block';
+						iconOff.style.display = 'none';
+						isPlaying = true;
+						bgMusic.volume = volumeSlider.value;
+					}).catch(function(e) {
+						console.log("Audio play failed:", e);
+					});
+				}
+			}
+
+			mc.addEventListener('click', toggleMusic);
+
+			volumeSlider.addEventListener('input', function(e) {
+				e.stopPropagation();
+				var v = parseFloat(this.value);
+				bgMusic.volume = v;
+				if (v === 0) {
+					iconOn.style.display = 'none';
+					iconOff.style.display = 'block';
+				} else if (isPlaying) {
+					iconOn.style.display = 'block';
+					iconOff.style.display = 'none';
+				}
+			});
+
+			// Try to start music on first interaction
+			document.body.addEventListener('click', function(e) {
+				if (!isPlaying && e.target !== volumeSlider) {
+					bgMusic.play().then(function() {
+						iconOn.style.display = 'block';
+						iconOff.style.display = 'none';
+						isPlaying = true;
+						bgMusic.volume = volumeSlider.value;
+					}).catch(function(e){});
+				}
+			}, { once: true });
+		</script>
+
+			<noscript><p><b>Please enable Javascript!</b></p>
 		</noscript>
 <!-- - - - - - - 8<- - - - - - cut here - - - - - 8<- - - - - - - -->
 	</body>
