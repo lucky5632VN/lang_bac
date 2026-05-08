@@ -8713,7 +8713,7 @@ function pano2vrSkin(player,base) {
 		els.setAttribute('src',hs);
 		els.ggNormalSrc=hs;
 		hs ='';
-		hs += 'position: absolute;top: 0px;left: 0px;width: 100%;height: 100%;-webkit-user-drag:none;pointer-events:none;;';
+		hs += 'position: absolute;top: 0px;left: 0px;width: 100%;height: 100%;-webkit-user-drag:none;pointer-events:none;border-radius: 50%; overflow: hidden;;';
 		els.setAttribute('style', hs);
 		els.className='ggskin ggskin_button';
 		els['ondragstart']=function() { return false; };
@@ -10798,7 +10798,7 @@ function pano2vrSkin(player,base) {
 		els.setAttribute('src',hs);
 		els.ggNormalSrc=hs;
 		hs ='';
-		hs += 'position: absolute;top: 0px;left: 0px;width: 100%;height: 100%;-webkit-user-drag:none;pointer-events:none;;';
+		hs += 'position: absolute;top: 0px;left: 0px;width: 100%;height: 100%;-webkit-user-drag:none;pointer-events:none;border-radius: 50%; overflow: hidden;;';
 		els.setAttribute('style', hs);
 		els.className='ggskin ggskin_button';
 		els['ondragstart']=function() { return false; };
@@ -14162,7 +14162,7 @@ function pano2vrSkin(player,base) {
 		els.setAttribute('src',hs);
 		els.ggNormalSrc=hs;
 		hs ='';
-		hs += 'position: absolute;top: 0px;left: 0px;width: 100%;height: 100%;-webkit-user-drag:none;pointer-events:none;;';
+		hs += 'position: absolute;top: 0px;left: 0px;width: 100%;height: 100%;-webkit-user-drag:none;pointer-events:none;border-radius: 50%; overflow: hidden;;';
 		els.setAttribute('style', hs);
 		els.className='ggskin ggskin_button';
 		els['ondragstart']=function() { return false; };
@@ -14435,7 +14435,7 @@ function pano2vrSkin(player,base) {
 		els.setAttribute('src',hs);
 		els.ggNormalSrc=hs;
 		hs ='';
-		hs += 'position: absolute;top: 0px;left: 0px;width: 100%;height: 100%;-webkit-user-drag:none;pointer-events:none;;';
+		hs += 'position: absolute;top: 0px;left: 0px;width: 100%;height: 100%;-webkit-user-drag:none;pointer-events:none;border-radius: 50%; overflow: hidden;;';
 		els.setAttribute('style', hs);
 		els.className='ggskin ggskin_button';
 		els['ondragstart']=function() { return false; };
@@ -15452,7 +15452,7 @@ function pano2vrSkin(player,base) {
 		els.setAttribute('src',hs);
 		els.ggNormalSrc=hs;
 		hs ='';
-		hs += 'position: absolute;top: 0px;left: 0px;width: 100%;height: 100%;-webkit-user-drag:none;pointer-events:none;;';
+		hs += 'position: absolute;top: 0px;left: 0px;width: 100%;height: 100%;-webkit-user-drag:none;pointer-events:none;border-radius: 50%; overflow: hidden;;';
 		els.setAttribute('style', hs);
 		els.className='ggskin ggskin_button';
 		els['ondragstart']=function() { return false; };
